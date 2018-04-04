@@ -9,3 +9,7 @@ I intend to use Lagrangian mechanics to explore the trajectories and equations o
 ### April 2, 2018
 
 I determined equations for kinetic energy in two, three, and four dimensions and derived equations of motion for a simple 2D case. I also installed Mathematica on my Ubuntu machine.
+
+### April 3, 2018
+
+I began working on computing trajectories based on the simple 2D case.
