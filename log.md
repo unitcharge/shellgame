@@ -13,3 +13,7 @@ I determined equations for kinetic energy in two, three, and four dimensions and
 ### April 3, 2018
 
 I began working on computing trajectories based on the simple 2D case.
+
+### April 13, 2018
+
+I have been trying to work out some numerical issues with my trajectories & alternate methods of obtaining EOMs (e.g. Hamiltonian).
